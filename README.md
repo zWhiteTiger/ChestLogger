@@ -25,6 +25,15 @@ ChestLogger is a Minecraft plugin designed for SMP servers to track storage bloc
 - Supports whitelist functionality to monitor specific blocks.
 - Logs are stored in player-specific YAML files for easy auditing.
 
+## To-Do List
+### This project is not final; it is currently in the development stage.
+- ~~Tracking "Place event Storage"~~
+- ~~Tracking "Destory event Hopper"~~
+- ~~Export log to YML files Function~~
+- Tracking "event edit chest"
+- Search function
+- etc.
+
 ## Installation
 
 1. Download the latest version of ChestLogger from [GitHub Releases](https://github.com/zWhiteTiger/ChestLogger/releases).
