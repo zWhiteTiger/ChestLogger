@@ -1,19 +1,3 @@
-# ChestLogger
-
----
-
-Plugin: ChestLogger
-
-Developed By: zWhiteTiger_
-
-Version: 1.0-SNAPSHOT
-
-Support: 1.20 (Based on Spigot-1.20.4)
-
-Tested On: Paper-1.20.1-170
-
----
-
 ## Overview
 
 ChestLogger is a Minecraft plugin designed for SMP servers to track storage blocks such as chests, trapped chests, barrels, and shulker boxes. It logs actions such as item additions, removals, and block interactions to help server admins monitor and manage storage integrity.
