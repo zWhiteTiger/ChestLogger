@@ -27,7 +27,7 @@ ChestLogger is a Minecraft plugin designed for SMP servers to track storage bloc
 
 ## Installation
 
-1. Download the latest version of ChestLogger from [GitHub Releases](https://github.com/your-repository).
+1. Download the latest version of ChestLogger from [GitHub Releases](https://github.com/zWhiteTiger/ChestLogger/releases).
 2. Place the `ChestLogger.jar` file into your server's `plugins` folder.
 3. Restart your server to load the plugin.
 
