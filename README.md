@@ -2,8 +2,8 @@
 
 ---------------------------------------------------
 
-                   About
-                   
+###                     About
+             
 Plugin: ChestLogger
 
 Developed By: zWhiteTiger_
