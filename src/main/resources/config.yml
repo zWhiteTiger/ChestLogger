@@ -1,0 +1,70 @@
+# ---------------------------------------------------
+#                    About
+#  Plugin: ChestLogger
+#  Developed By: zWhiteTiger_
+#  Version: 1.0-SNAPSHOT
+#  Support: 1.20 (Based Spigot-1.20.4)
+#  Test: paper-1.20.1-170
+# ---------------------------------------------------
+#                     Messages
+# ---------------------------------------------------
+
+Messages:
+  # -------------------------------------------------
+  #                     Prefix
+  #         show prefix in front message
+  # -------------------------------------------------
+  prefix: '[ChestLogger]'
+
+# ---------------------------------------------------
+#                     Whitelist
+#     This whitelist allows blocks to be tracked
+# ---------------------------------------------------
+
+whitelist:
+  # -------------------------------------------------
+  #                      Block
+  #          Tracking block who action this
+  # -------------------------------------------------
+  block:
+    - chest
+    - shulker_box
+    - red_shulker_box
+    - lime_shulker_box
+    - pink_shulker_box
+    - gray_shulker_box
+    - cyan_shulker_box
+    - blue_shulker_box
+    - white_shulker_box
+    - brown_shulker_box
+    - green_shulker_box
+    - black_shulker_box
+    - orange_shulker_box
+    - magenta_shulker_box
+    - yellow_shulker_box
+    - purple_shulker_box
+    - light_blue_shulker_box
+    - light_gray_shulker_box
+    - red_shulker_box
+    - trapped_chest
+    - barrel
+  # -------------------------------------------------
+  #                      LogicBlock
+  #         like a transport block e.g. hopper
+  # -------------------------------------------------
+  logicBlock:
+    - hopper
+    - hopper_minecart
+
+# ---------------------------------------------------
+#                      Blacklist
+#  Items in this blacklist do not need to be tracked
+# ---------------------------------------------------
+
+blacklist:
+  # -------------------------------------------------
+  #                      Item
+  #        Blacklist can blacklist item only
+  # -------------------------------------------------
+  item:
+    - air # default value air will not tracking

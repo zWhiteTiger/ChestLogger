@@ -1,0 +1,11 @@
+name: ChestLogger
+version: '${project.version}'
+main: com.whitetiger.chestlogger.ChestLogger
+api-version: '1.20'
+authors: [WhiteTiger]
+description: Log your Storage
+commands:
+  getlocation:
+    description: Get your current location.
+    usage: /getlocation
+    permission: chestlogger.getlocation

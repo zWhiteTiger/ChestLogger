@@ -1,0 +1,6 @@
+com\whitetiger\chestlogger\manager\StorageManager.class
+com\whitetiger\chestlogger\logger\LoggerManager.class
+com\whitetiger\chestlogger\listener\BlockEventListener.class
+com\whitetiger\chestlogger\manager\LogicManager.class
+com\whitetiger\chestlogger\utility\ConfigGenerator.class
+com\whitetiger\chestlogger\ChestLogger.class
